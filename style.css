@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
-
 body {
 	background: #212121;
-	font-family: 'Merriweather', serif;
+	font-family: Montserrat;
 }
 
 .cardm {
